@@ -25,3 +25,4 @@ keras==2.3.0
 keras-resnet
 opencv-python
 slidingwindow
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
