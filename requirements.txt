@@ -15,13 +15,14 @@ recommonmark
 sphinx
 sphinx-markdown-tables
 sphinx_rtd_theme
-tensorflow==1.14
+tensorflow==2.7.2
 twine
 tqdm
 xmltodict
 #Pip specific in reference to environment.yml
 bumpversion
-keras==2.3.0
+keras==2.6.0rc3
 keras-resnet
 opencv-python
 slidingwindow
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
