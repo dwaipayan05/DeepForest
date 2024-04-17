@@ -21,7 +21,7 @@ tqdm
 xmltodict
 #Pip specific in reference to environment.yml
 bumpversion
-keras==2.3.0
+keras==2.13.1rc0
 keras-resnet
 opencv-python
 slidingwindow
